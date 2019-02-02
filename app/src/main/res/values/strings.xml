@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LangApp</string>
+
+
+    <string-array name="countries">
+        <item>Australia</item>
+        <item>America</item>
+        <item>Brazil</item>
+        <item>Bangladesh</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Indonasia</item>
+        <item>Afghanistan</item>
+        <item>South-Central </item>
+        <item>Asia</item>
+        <item> Albania</item>
+        <item>Southern Europe</item>
+        <item>Algeria</item>
+        <item>Northern Africa</item>
+        <item>Polynesia</item>
+        <item>Aruba</item>
+        <item>Leeward Islands</item>
+
+
+    </string-array>
+
+    <string name="ecn">Enter Country Name :</string>
+</resources>

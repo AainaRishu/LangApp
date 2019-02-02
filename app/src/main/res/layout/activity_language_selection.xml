@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="20sp">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:text="Select Language"
+    android:layout_gravity="center"
+    android:textSize="30sp"
+    android:textColor="#de1106"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="English"
+            android:layout_gravity="center"
+            android:id="@+id/b1"
+            android:textSize="25sp"
+            android:layout_marginTop="50sp"
+            android:textColor="#1c06de"
+            android:background="#f4dd48"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hindi"
+            android:layout_gravity="center"
+            android:id="@+id/b2"
+            android:textSize="25sp"
+            android:layout_marginTop="20sp"
+            android:textColor="#1b5c15"
+            android:background="#ccb0c7"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Telugu"
+            android:layout_gravity="center"
+            android:id="@+id/b3"
+            android:textSize="25sp"
+            android:layout_marginTop="20sp"
+            android:textColor="#fc7b0a6d"
+            android:background="#ccf2ed"/>
+
+
+
+</LinearLayout>

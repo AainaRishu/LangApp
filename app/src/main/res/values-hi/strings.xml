@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LangApp</string>
+
+    <string name="ecn">देश का नाम दर्ज करें:</string>
+
+    <string-array name="countries">
+        <item>ऑस्ट्रेलिया</item>
+        <item>अमेरिका</item>
+        <item>ब्राज़िल</item>
+        <item>बांग्लादेश</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Indonasia</item>
+
+        <item>अफ़ग़ानिस्तान</item>
+        <item>दक्षिण केन्द्रीय </item>
+        <item>एशिया</item>
+        <item> अल्बानिया</item>
+        <item>दक्षिणी यूरोप</item>
+        <item>अल्जीरिया</item>
+        <item>उत्तरी अफ्रीका</item>
+        <item>पोलिनेशिया</item>
+        <item>अरूबा</item>
+        <item>लीवार्ड द्वीप</item>
+    </string-array>
+</resources>
